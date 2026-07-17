@@ -62,7 +62,7 @@
 
 ---
 
-### 💼 Experience
+### 💼 InternShip Experience
 
 **🚀 Hyscaler — Software Developer Apprentice** *(Mar 2026 – June 2026)*
 - Developed and maintained production-grade full-stack features (Shorts, Polls modules) on a live sports platform, building scalable Spring Boot REST APIs and Microservices integrated with ReactJS frontend components in an Agile/Scrum environment
@@ -158,12 +158,9 @@ Personal portfolio site showcasing projects, skills, and experience.
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhila8260&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=Akhila8260&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Akhila8260&theme=radical" width="70%"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akhila8260&layout=compact&theme=radical" width="50%"/>
 </p>
