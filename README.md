@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://akhila8260.github.io/my-portfolio" target="_blank">
+  <a href="https://akhila8260.github.io/my_portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/sm-akhil28" target="_blank">
