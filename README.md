@@ -165,7 +165,7 @@ Personal portfolio site showcasing projects, skills, and experience.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhila8260&layout=compact&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akhila8260&layout=compact&theme=radical" width="50%"/>
 </p>
 
 ---
