@@ -161,7 +161,7 @@ Personal portfolio site showcasing projects, skills, and experience.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akhila8260&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhila8260&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Akhila8260&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
