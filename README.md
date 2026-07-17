@@ -62,7 +62,7 @@
 
 ---
 
-### 💼 InternShip Experience
+### 💼 Internship Experience
 
 **🚀 Hyscaler — Software Developer Apprentice** *(Mar 2026 – June 2026)*
 - Developed and maintained production-grade full-stack features (Shorts, Polls modules) on a live sports platform, building scalable Spring Boot REST APIs and Microservices integrated with ReactJS frontend components in an Agile/Scrum environment
